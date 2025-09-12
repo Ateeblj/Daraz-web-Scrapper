@@ -1,0 +1,9 @@
+Add Supporting Files
+requirements.txt
+
+List the Python dependencies:
+
+selenium
+webdriver-manager
+requests
+openpyxl
